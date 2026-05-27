@@ -313,6 +313,10 @@ root.bind("<Next>", page_down)
 root.bind("<Home>", go_home)
 root.bind("<End>", go_end)
 
-if __name__ == "__main__":
+def main():
+    """Точка входа для запуска пакета."""
     root.mainloop()
+
+if __name__ == "__main__":
+    main()
 
