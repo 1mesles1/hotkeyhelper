@@ -1,4 +1,4 @@
-# HotkeyHelper 🐧⌨️
+# HotkeyHelper (v0.0.1) 🐧⌨️
 
 [English](#english) | [Русский](#русский)
 
@@ -17,7 +17,7 @@ A lightweight and fast Python / Tkinter utility that displays a cheat sheet of y
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/1mesles1/hotkeyhelper
    cd hotkeyhelper
    ```
 2. Run the application:
@@ -51,7 +51,7 @@ bindsym $mod+Shift+h exec --no-startup-id python /path/to/hotkeyhelper/main.py
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/1mesles1/hotkeyhelper
    cd hotkeyhelper
    ```
 2. Запустите программу:
