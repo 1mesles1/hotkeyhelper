@@ -1,5 +1,8 @@
 # HotkeyHelper (v0.0.1) 🐧⌨️
 
+## Screenshots
+[<img src="screenshots/01.png" width="400">](screenshots/01.png) [<img src="screenshots/02.png" width="400">](screenshots/02.png)
+
 [English](#english) | [Русский](#русский)
 
 ---
