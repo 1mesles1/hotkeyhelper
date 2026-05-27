@@ -86,6 +86,6 @@ makepkg -si
 ### Интеграция с i3wm
 Чтобы вызывать подсказку по нажатию глобального сочетания клавиш, добавьте в ваш `~/.config/i3/config`:
 ```text
-bindsym \$mod+Shift+h exec --no-startup-id python /путь/к/папке/hotkeyhelper/main.py
+bindsym $mod+Shift+h exec --no-startup-id python /путь/к/папке/hotkeyhelper/main.py
 ```
 
