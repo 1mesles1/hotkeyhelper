@@ -1,6 +1,0 @@
-[
-    {"key": "Super + T", "description": "Открыть терминал"},
-    {"key": "Super + D", "description": "Показать рабочий стол"},
-    {"key": "Alt + F4", "description": "Закрыть активное окно"},
-    {"key": "Ctrl + Q", "description": "Выход из приложения"}
-]
