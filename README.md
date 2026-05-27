@@ -24,6 +24,14 @@ A lightweight and fast Python / Tkinter utility that displays a cheat sheet of y
    ```bash
    python main.py
    ```
+### Arch Linux Installation (via PKGBUILD)
+If you are on Arch Linux, you can build and install the application as a native package using `makepkg`:
+```bash
+git clone https://github.com/1mesles1/hotkeyhelper
+cd hotkeyhelper
+makepkg -si
+```
+This will compile the package, resolve dependencies, install the global `hotkeyhelper` command, and place the documentation inside `/usr/share/doc/hotkeyhelper/`.
 
 ### Configuration
 
@@ -58,6 +66,14 @@ bindsym $mod+Shift+h exec --no-startup-id python /path/to/hotkeyhelper/main.py
    ```bash
    python main.py
    ```
+### Установка в Arch Linux (через PKGBUILD)
+Если вы используете Arch Linux, вы можете собрать и установить утилиту как родной системный пакет с помощью утилиты `makepkg`:
+```bash
+git clone https://github.com/1mesles1/hotkeyhelper
+cd hotkeyhelper
+makepkg -si
+```
+Эта команда соберет пакет, установит глобальную команду `hotkeyhelper` в систему и положит сопутствующую документацию в каталог `/usr/share/doc/hotkeyhelper/`.
 
 ### Конфигурация
 
