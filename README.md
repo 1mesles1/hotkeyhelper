@@ -38,7 +38,7 @@ This will compile the package, resolve dependencies, install the global `hotkeyh
 
 ### Configuration
 
-- **Hotkeys (`hotkeys.json`)**: Add your combinations and descriptions in JSON format.
+- **Hotkeys (`hotkeys.txt`)**: Add your combinations and descriptions in JSON format.
 - **Theme (`config.json`)**: Change colors, font families, and sizes to match your system look.
 
 ### i3wm Integration
@@ -80,7 +80,7 @@ makepkg -si
 
 ### Конфигурация
 
-- **Список клавиш (`hotkeys.json`)**: Добавляйте свои комбинации и описания в структуру JSON.
+- **Список клавиш (`hotkeys.txt`)**: Добавляйте свои комбинации и описания в структуру JSON.
 - **Настройки темы (`config.json`)**: Настраивайте цвета, шрифты и размеры под вашу системную тему.
 
 ### Интеграция с i3wm
